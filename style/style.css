@@ -6,9 +6,7 @@ body {
   font-size: 16px;
   font-family: 'Druk Wide'; font-weight: 500; font-style: normal;
   background: #F6F7FB;
-  /* cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto; */
-  /* cursor:url("../img/flag.png") auto; */
-  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='60' height='72' viewport='0 0 100 100' style='fill:black;font-size:36px;'><text y='50%'>🇪🇸</text></svg>") 16 0,auto; /*emojicursor.app*/
+  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='91' height='109' viewport='0 0 100 100' style='fill:black;font-size:55px;'><text y='50%'>🦐</text></svg>") 16 0,auto; /*emojicursor.app*/
 
 }
 h1 {
