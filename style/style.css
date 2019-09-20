@@ -510,7 +510,7 @@ transform: translate(-50%, -50%);
 width: 85%;
 }
 
-@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 900px) {
   .responsive-notice  {
     display: block;
   }
